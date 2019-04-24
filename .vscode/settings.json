@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Babs\\AppData\\Local\\Programs\\Python\\Python36",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": ["--load-plugins"]
+
+}
